@@ -668,6 +668,7 @@ font-weight: bold;
   width: 10px;
   border-radius: 1px;
   margin-left: -12px;
+  display: inline ! important;
 }
 .hear7 {
   width: 184%;
